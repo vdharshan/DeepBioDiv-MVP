@@ -14,8 +14,6 @@ Upload a DNA sequence file, and the app will:
 3. **Show results** with the top 5 most likely species matches
 4. **Display similarity** percentages and confidence scores
 
-Perfect for researchers, students, and anyone curious about identifying species from DNA samples!
-
 ## 🚀 Quick Start
 
 ### Installation
@@ -62,8 +60,6 @@ A simple text format for storing DNA sequences:
 **NCBI** = National Center for Biotechnology Information (a huge government database)
 **BLAST** = Basic Local Alignment Search Tool (a DNA comparison program)
 
-Think of BLAST like a super-powered Google search, but instead of searching websites, it searches through millions of DNA sequences to find matches to your sample.
-
 ### **DNA Base Pairs**
 The building blocks of DNA:
 - **A** (Adenine) - Always pairs with T
@@ -71,13 +67,10 @@ The building blocks of DNA:
 - **G** (Guanine) - Always pairs with C
 - **C** (Cytosine) - Always pairs with G
 
-Like letters in a 4-letter alphabet that spells out the instructions for life!
-
 ### **E-value**
 A measure of how likely your DNA match happened by pure chance:
 - **Small numbers** (like 0.0001) = Great match, very unlikely to be random
 - **Big numbers** (like 0.5) = Poor match, could easily be random
-- Think of it like a "confidence score" - smaller is better!
 
 ### **Percent Identity**
 How similar your DNA is to the database sequence:
