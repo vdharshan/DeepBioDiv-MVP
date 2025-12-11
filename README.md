@@ -46,7 +46,7 @@ GCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCTAGCT
 ## 🧬 Scientific Terms Explained
 
 ### **Environmental DNA (eDNA)**
-Think of it like genetic fingerprints left behind by living things. When animals, plants, or microbes live in water or soil, they leave tiny bits of their DNA behind. Scientists can collect these "genetic breadcrumbs" to find out what species live in an area without actually seeing them!
+Tiny bits of DNA that animals, plants, and microbes leave behind in places like water or soil. Scientists collect these traces to detect which species are present without seeing them.
 
 ### **FASTA Format**
 A simple text format for storing DNA sequences:
